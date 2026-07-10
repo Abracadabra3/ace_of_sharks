@@ -30,33 +30,33 @@
 ### Give the servo extra power
 1. Cut the red center wire out of the PWM cable connector.
 1. Strip the end of the wire that is connected to the servo.
-1. Solder a wire extension to the end of the wire and put a heat shrink or electrical tape around it so there is no bare wire that can short.
+1. Solder a wire extension to the end of the wire and put heat shrink or electrical tape around it so there is no bare wire that can short.
 1. Plug the wire extension into the red power distribution block.
 
 ### Mount servo
 1. With the servo horn on the front and the servo body on the right, screw the servo mounts to the servo.
 1. Press the servo horn onto the servo and screw it in.
 1. Screw the 18 tooth gear onto the servo horn.
-1. Plug the PWM cable into channel 3 on the reciever with the browm wire towards the outside of the reciever.
+1. Plug the PWM cable into channel 3 on the reciever with the brown wire towards the outside of the reciever.
 1. Place the servo in the chassis so the servo mounts line up with the blocks in the chassis and the servo gear fits inside the wall in the chassis. Make sure the servo wire goes under the mounts and gear along the back wall of the chassis. Screw the mounts into the chassis.
 
 ## Test
-Now it's time to test the robot! Double check the red wires are in the red power distribution block and the black wires are in the black block. Make sure the charge jack is plugged into the switch. Elevate the robot off the table by placing it on a small box or holding it in the air. *The wood screw box might work well for this.*
+Now it's time to test the robot! Double check the red wires are in the red power distribution block and the black wires are in the black block. Make sure the charge jack is plugged into the switch. Elevate the robot off the table by placing it on a small box or holding it in the air. *The wood screw box  or battery box might work well for this.*
 Plug the battery into the JST connector on the switch.
 Turn the transmitter on first, and then the robot. The controls on the right are the drive controls. The ones on the left are servo controls.
-*Note: It's okay if the drive wheels are spinning or the servo is humming. That will be fixed in the next step.*
+*Note: It's okay if the drive motors are spinning or motors are whining. That will be fixed in the next step.*
 
 ## Trim motors
 Near each joystick for controling the motors there is two sliders. These are for adjusting the trim, or where the center actually is.
 Move all the sliders to the center for right now.
 ### ESC Calibration
-1. On the ESC, find a label for 'Calibrate' near the PWM cables. With the robot on and transmitter off, briefly short the pads. Do this for both ESCs.
+1. On the ESC, find a label for 'Calibrate' near where the PWM cables exit. With the robot on and transmitter off, briefly short the pads. Do this for both ESCs. The light should flash red and green alternately.
 2. Turn on the transmitter and move the drive controls to the maximum, minimum, and then center.
-3. Turn off the transmitter and briefly short the pads on the ESCs again.
+3. Turn off the transmitter and briefly short the pads on the ESCs again. The light will flash twice and turn on solid.
 The ESCs now know exactly what signals the transmitter and reciever send, and so they can work exactly like you want without having to adjust the trim.
 
 ### Servo trimming
-Servos do not have ESCs to calibrate. If the servo is humming, then you need to adjust the trim. Move the up and down slider slowly one way. If the sound gets worse or the servo starts slowly spinning, then you are going the wrong way. Move it the other way until you find the spot that the servo is no longer humming or spinning.
+Servos do not have ESCs to calibrate. If the servo is humming, then you need to adjust the trim. Move the up and down slider slowly one way. If the sound gets worse or the servo moves, then you are going the wrong way. Move it the other way until you find the spot where the servo is no longer humming.
 
 Move the servo to the top position and turn the robot off by plugging in the switch.
 
@@ -90,25 +90,6 @@ Congrats! Learn to drive the robot by driving around cones or markers or just pu
 I like to use a sharpie to color in the indented parts on the shark arm and use paint to color the raised parts on the top plate and bottom jaw.
 Have fun!
 
-## Troubleshooting
-Dead batteries can cause a lot of strange problems to appear. If the robot was working and now is not, check the batteries.
+If you want to learn more about your robot, check out the [electronics guide](ELECTRONICS.md) to learn what each component does and some of the signals that a part is or is not working.
 
-### Drive does not behave as expected:
-1. Tell the robot to drive forward. Which way does it go?
-If it turns, calibrate the ESCs again.
-If it goes backward, check that the **blue** ESC wires are towards the **back** of the robot when the Repeat Drive logo is facing upwards.
-1. Tell the robot to turn. What does it do?
-If it turns the wrong way, check that the ESC wires are plugged into the correct transmitter channel as indicated by the markings on the chassis.
-1. If the robot barely moves, moves erratically, or whines and does not move, check that the battery is fully charged.
-
-### Robot does not turn on:
-1. Check that the battery is fully charged.
-1. Check that the wires from the power switch are fully connected to the power distribution blocks.
-1. If the robot still does not turn on, the switch may be faulty.
-
-### Motors whine and do not move or behave erratically:
-1. Check that the servo is not trying to move past the limits of motion (eg. move the servo away from the ends of its range or set down anything it is holding). The servo can consume a lot of power when it is stalled and not leave enough for the drive motors.
-1. Check that the battery is fully charged. Dead batteries cause many strange issues that can be difficult to debug.
-
-### Servo moves erratically without telling it to move:
-1. The battery is probably dead. Charge it or switch to a different battery.
+Check out the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working as it should.
