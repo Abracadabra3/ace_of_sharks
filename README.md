@@ -1,8 +1,9 @@
 # Ace of Sharks Combat Robot
 **Ace of Sharks is a plastic antweight (1 lb) combat robot with a compound grab and lift motion powered by a single servo.**
 
-(image)
-(try-it link)
+<img src="images/Ace of Sharks.jpg" alt="Image of Ace of Sharks" style="width:50%; height:auto;">
+
+![Demo video](Images/demo.mp4)
 
 ## Features
 - Servo powered clamping motion
@@ -16,7 +17,19 @@
 Ace of Sharks uses the 'greedy snake' mechanism used in battlebots like Claw Viper. The gear train and positioning of axles allows the motion to switch direction when the shark arm is clamped down on top of the other robot.
 Positioning the servo in the back of the robot and the drive motors in the front gives Ace of Sharks an advantage because the center of mass will be positioned closer to the back of the robot. This allows the front forks to be shorter and still be able to lift an opponent. Additionally, having the drive motors in the front may let those wheels be slightly stronger, which is important for driving while carrying another combat robot.
 
-Thanks to the [Ask Aaron site](runamok.tech/AskAaron/weapon.html#greedy) for the animation of the Greedy Snake mechanism and the [RioBotz book](studylib.net/doc/26042423/riobotz-combot-tutorial--1-?p=203) for detailed information on what makes a good clamper style robot.
+## Credits
+- The [Ask Aaron site](runamok.tech/AskAaron/weapon.html#greedy) had an animation of the Greedy Snake mechanish which I referenced.
+- The [RioBotz book](studylib.net/doc/26042423/riobotz-combot-tutorial--1-?p=203) had detailed information on how a grabber bot should be laid out to work best.
+- Someone commented on [this Reddit post]() with a detailed description of the Greedy Snake mechanism which helped me a lot with creating Ace of Sharks.
+
+## Assembling the robot
+See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
+
+## Troubleshooting
+See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working as it should.
+
+## More information
+Check out the [electronics guide](ELECTRONICS.md) if you want to learn more about what each electronic component does.
 
 ## Bill of Materials
 - 2x [Repeat Robotics 16mm Gearmotors](https://repeat-robotics.com/products/repeat-mini-brushed-mk2-1pcs?variant=52037132550325)
@@ -51,11 +64,5 @@ Thanks to the [Ask Aaron site](runamok.tech/AskAaron/weapon.html#greedy) for the
 - Soldering iron
 - Heat gun (only if using heat shrink)
 
-## Assembling the robot
-See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
-
-## Troubleshooting
-See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working as it should.
-
-## More information
-Check out the [electronics guide](ELECTRONICS.md) if you want to learn more about what each electronic component does.
+## Process of building
+See devlogs and the journey of making Ace of Sharks [here!](https://stardance.hackclub.com/projects/12008)
