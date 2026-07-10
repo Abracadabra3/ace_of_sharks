@@ -38,14 +38,24 @@ Thanks to the [Ask Aaron site](runamok.tech/AskAaron/weapon.html#greedy) for the
 - 3mm by 20mm shoulder bolts
 - Extra wire
 - Heat shrink or electrical tape
+
 *Some tournaments require a clearly visible power LED. If so, use a [Fingertech Superbright Power LED](https://www.fingertechrobotics.com/proddetail.php?prod=ft-power-led). Plug it into the BATTERY channel on the reciever and place it near the edge of the chassis.*
+
 ***Many parts can be bought from multiple sites if you want to minimize the number of seperate purchases.***
 
+*List also in [BOM.csv](BOM.csv).*
+
 ### Tools
-- Screwdriver
+- Phillips head screwdriver (for wood screws)
 - Needle nose pliers
 - Soldering iron
-- Heat gun for heat shrink (optional)
+- Heat gun (only if using heat shrink)
 
 ## Assembling the robot
 See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
+
+## Troubleshooting
+See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working as it should.
+
+## More information
+Check out the [electronics guide](ELECTRONICS.md) if you want to learn more about what each electronic component does.
