@@ -1,6 +1,14 @@
 # ELectronics guide
 **This is a description of what each electronic part does and some of the signals that will tell you when it is or is not working.**
 
+Not where you want to be?
+
+[Troubleshooting guide](TROUBLESHOOTING.md)
+
+[README](README.md)
+
+[Build instructions](BUILD.md)
+
 ## Transmitter
 The transmitter is the controller that sends (or transmits) the input you provide to tell motors what to do.
 Transmitters and recievers must be connected, or bound, to each other. You can think of this like telling the reciever to only listen to a specific voice. If they are not bound, the robot will turn on but do nothing.

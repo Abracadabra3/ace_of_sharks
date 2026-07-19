@@ -1,4 +1,12 @@
 # Assembly Instructions
+Not where you want to be?
+
+[Troubleshooting guide](TROUBLESHOOTING.md)
+
+[README](README.md)
+
+[Electronics guide](ELECTRONICS.md)
+
 ## Power switch
 1. Unscrew the nut from the power switch. Push the charge jack port through the hole in the bottom of the chassis with the wires pointed towards the inside of the chassis. Make sure the charge jack lines up with the rectangle on the chassis.
 1. Screw the nut back onto the charge jack and tighten it with pliers.

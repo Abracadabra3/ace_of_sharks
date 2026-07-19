@@ -3,6 +3,14 @@
 
 Dead batteries can cause a lot of strange problems to appear. If the robot was working and now is not, check the batteries.
 
+Not where you want to be?
+
+[Electronics guide](ELECTRONICS.md)
+
+[README](README.md)
+
+[Electronics guide](ELECTRONICS.md)
+
 ## Drive does not behave as expected:
 1. Tell the robot to drive forward. Which way does it go?
 If it turns, calibrate the ESCs again.
