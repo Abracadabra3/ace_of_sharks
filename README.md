@@ -64,5 +64,11 @@ Check out the [electronics guide](ELECTRONICS.md) if you want to learn more abou
 - Soldering iron
 - Heat gun (only if using heat shrink)
 
-## Process of building
+## Links
 See devlogs and the journey of making Ace of Sharks [here!](https://stardance.hackclub.com/projects/12008)
+
+See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working as it should.
+
+See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
+
+See the [electronics guide](ELECTRONICS.md) to learn what each electronics componenet does.
