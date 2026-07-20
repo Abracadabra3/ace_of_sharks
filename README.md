@@ -85,3 +85,5 @@ See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working
 See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
 
 See the [electronics guide](ELECTRONICS.md) to learn what each electronics component does.
+
+See the [print settings guide](PRINT.md) for print settings.

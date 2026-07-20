@@ -9,6 +9,8 @@ Not where you want to be?
 
 [Build instructions](BUILD.md)
 
+[Print settings](PRINT.md)
+
 ## Transmitter
 The transmitter is the controller that sends (or transmits) the input you provide to tell motors what to do.
 Transmitters and receivers must be connected, or bound, to each other. You can think of this like telling the receiver to only listen to a specific voice. If they are not bound, the robot will turn on but do nothing.

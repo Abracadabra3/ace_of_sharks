@@ -9,7 +9,9 @@ Not where you want to be?
 
 [README](README.md)
 
-[Electronics guide](ELECTRONICS.md)
+[Assembly instructions](BUILD.md)
+
+[Print settings](PRINT.md)
 
 ## Drive does not behave as expected:
 1. Tell the robot to drive forward. Which way does it go?
