@@ -19,9 +19,9 @@ Not where you want to be?
 
 1. Screw the drive motor mounts onto the outside of the chassis.
 2. Place one drive motor in each motor mount with the Repeat Robotics logo facing upwards.
-3. Plug in the blue and purple wires on the ESCs to a motor with the **blue** wire towards the **back** of the robot. *Note that the wires are plugged in diferently on each motor. This is important. If they are reversed, the robot will drive funny.*
+3. Plug in the blue and purple wires on the ESCs to a motor with the **blue** wire towards the **back** of the robot. *Note that the wires are plugged in differently on each motor. This is important. If they are reversed, the robot will drive funny.*
    ***You may want to solder the connections for battle. When the wires have been plugged and unplugged a couple of times, the connections get loose. I have lost battles because the motors came unplugged.***
-4. Plug the ESC wires into the reciever channel indicated by the writing inside the chassis. The brown wire goes towards the outside of the reciever. *If the wire are plugged in backwards, nothing will blow up but the motors won't move.*
+4. Plug the ESC wires into the receiver channel indicated by the writing inside the chassis. The brown wire goes towards the outside of the receiver. *If the wire are plugged in backwards, nothing will blow up but the motors won't move.*
 5. Plug the red and black ESC wires into the red and black power distribution blocks, respectively.
 6. Screw the motors to the motor mounts.
 
@@ -52,7 +52,7 @@ Not where you want to be?
 1. With the servo horn on the front and the servo body on the right, screw the servo mounts to the servo.
 2. Press the servo horn onto the servo and screw it in.
 3. Screw the 18 tooth gear onto the servo horn.
-4. Plug the PWM cable into channel 3 on the reciever with the brown wire towards the outside of the reciever.
+4. Plug the PWM cable into channel 3 on the receiver with the brown wire towards the outside of the receiver.
 5. Place the servo in the chassis so the servo mounts line up with the blocks in the chassis and the servo gear fits inside the wall in the chassis. Make sure the servo wire goes under the mounts and gear along the back wall of the chassis. Screw the mounts into the chassis.
 
 ## Test
@@ -64,7 +64,7 @@ Turn the transmitter on first, and then the robot. The controls on the right are
 
 ## Trim motors
 
-Near each joystick for controling the motors there is two sliders. These are for adjusting the trim, or where the center actually is.
+Near each joystick for controlling the motors there is two sliders. These are for adjusting the trim, or where the center actually is.
 Move all the sliders to the center for right now.
 
 ### ESC Calibration
@@ -72,7 +72,7 @@ Move all the sliders to the center for right now.
 1. On the ESC, find a label for 'Calibrate' near where the PWM cables exit. With the robot on and transmitter off, briefly short the pads. Do this for both ESCs. The light should flash red and green alternately.
 2. Turn on the transmitter and move the drive controls to the maximum, minimum, and then center.
 3. Turn off the transmitter and briefly short the pads on the ESCs again. The light will flash twice and turn on solid.
-   The ESCs now know exactly what signals the transmitter and reciever send, and so they can work exactly like you want without having to adjust the trim.
+   The ESCs now know exactly what signals the transmitter and receiver send, and so they can work exactly like you want without having to adjust the trim.
 
 ### Servo trimming
 
@@ -86,7 +86,7 @@ Move the servo to the top position and turn the robot off by plugging in the swi
 
 <img src="Images/Electronics.png" alt="Electronics diagram" style="width:50%; height:auto;">
 
-Place the battery and reciever where the markings on the chassis indicate. Wires can go above the "CH 1" and "CH 2" markings.
+Place the battery and receiver where the markings on the chassis indicate. Wires can go above the "CH 1" and "CH 2" markings.
 Find the zip tie slots in the chassis and zip tie all the wires down with the reusable zip tie.
 The reusable zip tie is so that you don't need to cut a thick zip tie right next to thin, easy to cut wires.
 
@@ -108,7 +108,7 @@ The reusable zip tie is so that you don't need to cut a thick zip tie right next
 ### Chassis attachments
 
 1. Screw two forks to the front of the chassis with the slanted side facing outwards. *Note that the forks are different for each side of the robot*
-2. Screw a back armor piece to the back of the chassis. **Important: Do NOT put a screw in the center hole of the back armor piece! This screw is in the way of the serco gear and will rip a channel through the gear if you put in in.**
+2. Screw a back armor piece to the back of the chassis. **Important: Do NOT put a screw in the center hole of the back armor piece! This screw is in the way of the servo gear and will rip a channel through the gear if you put in in.**
 
 # You are finished assembling Ace of Sharks!
 

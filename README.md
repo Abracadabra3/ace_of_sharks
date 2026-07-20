@@ -2,7 +2,7 @@
 
 **Ace of Sharks is a plastic antweight (1 lb) combat robot with a compound grab and lift motion powered by a single servo.**
 
-<img src="images/Ace of Sharks.jpg" alt="Image of Ace of Sharks" style="width:50%; height:auto;">
+<img src="Images/Ace of Sharks.jpg" alt="Image of Ace of Sharks" style="width:50%; height:auto;">
 
 ![Demo video](Images/demo.mp4)
 
@@ -15,7 +15,7 @@
 - Gear train for the weapon
 - Only 6 screws to access the internal electronics
 
-<img src="Images/Ace of Sharks.jpg" alt="Ace of Sharks hero image" style="width: 50%; height: auto;">
+<img src="Images/fight_1.2.png" alt="Ace of Sharks holding another robot straight up in the air during a fight" style="width: 50%; height: auto;">
 
 ## Design decisions
 Ace of Sharks uses the 'greedy snake' mechanism used in BattleBots like Claw Viper. The gear train and positioning of axles allows the motion to switch direction when the shark arm is clamped down on top of the other robot.
@@ -30,6 +30,7 @@ Positioning the servo in the back of the robot and the drive motors in the front
 
 See the [assembly instructions](BUILD.md) to assemble your own version of Ace of Sharks!
 
+<img src="Images/fight_3.png" alt="Ace of Sharks holding another robot in the air" style="width: 50%; height: auto;">
 
 ## Troubleshooting
 
