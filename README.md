@@ -10,8 +10,8 @@
 
 - Servo powered clamping motion
 - Lifting motion powered by the same servo
-- Four wheel drive
-- 3d printed belts for wheels
+- Two wheel drive (Four wheel drive coming soon)
+- 3d printed belts for wheels (coming soon)
 - Gear train for the weapon
 - Only 6 screws to access the internal electronics
 
