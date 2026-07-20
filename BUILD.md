@@ -30,13 +30,14 @@ Not where you want to be?
 1. Screw the grub screws into the twist hubs.
 2. Mark with a Sharpie on the flat part of the twist hub where the grub screw is.
 3. Push a wheel onto a twist hub.
-4. Take a 3d printed twist hub pulley piece and twist it onto the twist hub.
+<!-- 4. Take a 3d printed twist hub pulley piece and twist it onto the twist hub. -->
+4. Twist the washer piece onto the twist hub using the twist hub key or a pair of needle nose pliers.
 5. Push an allen wrench into the foam wheel to get to the grub screw.
 6. Slide the hub onto the motor output shaft with the 3d printed part towards the robot and tighten the grub screw on the flat side.
 7. Repeat steps 1 through 4 for another wheel.
-8. Loop a TPU belt over the pulley on the wheel you just mounted and the wheel you have prepared.
-9. Use a shoulder bolt to attach the  wheel to the back of the robot.
-10. Repeat for the other side.
+<!-- 8. Loop a TPU belt over the pulley on the wheel you just mounted and the wheel you have prepared. -->
+8. Use a shoulder bolt to attach the  wheel to the back of the robot.
+9. Repeat for the other side.
 
 ## Servo
 
