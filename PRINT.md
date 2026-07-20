@@ -43,3 +43,6 @@ Regular parts:
 - All other parts (except the zip tie)
 
 Print the zip tie in PETG with 99 walls.
+
+## Print profile
+See the [print profile](Production/Ace%20of%20Sharks%203.1%20Print%20Project.3mf) for the slicer file.
