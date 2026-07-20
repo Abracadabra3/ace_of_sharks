@@ -40,6 +40,10 @@ See the [troubleshooting guide](TROUBLESHOOTING.md) if your robot is not working
 
 Check out the [electronics guide](ELECTRONICS.md) if you want to learn more about what each electronic component does.
 
+## Print settings
+
+Here is a [print settings](PRINT.md) guide with the settings I used.
+
 ## Bill of Materials
 
 - 2x [Repeat Robotics 16mm Gearmotors](https://repeat-robotics.com/products/repeat-mini-brushed-mk2-1pcs?variant=52037132550325)
