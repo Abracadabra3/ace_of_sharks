@@ -72,6 +72,7 @@ Check out the [electronics guide](ELECTRONICS.md) if you want to learn more abou
 
 - Phillips head screwdriver (for wood screws)
 - Needle nose pliers
+- Twist hub key (Optional, needle nose pliers will work as well)
 - Soldering iron
 - Heat gun (only if using heat shrink)
 
