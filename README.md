@@ -2,16 +2,18 @@
 
 **Ace of Sharks is a plastic antweight (1 lb) combat robot with a compound grab and lift motion powered by a single servo.**
 
-<img src="Images/Ace of Sharks.jpg" alt="Image of Ace of Sharks" style="width:50%; height:auto;">
+<img src="Images/hero_shot.jpg" alt="Image of Ace of Sharks" style="width:50%; height:auto;">
 
-![Demo video](Images/demo.mp4)
+<!-- ![Demo video](Images/demo.mp4) -->
+
+**[Highlight/Demo Video](https://youtu.be/_ATfgjuITDk?si=uulxCyih9-_A7W2l)**
 
 ## Features
 
 - Servo powered clamping motion
 - Lifting motion powered by the same servo
-- Two wheel drive (Four wheel drive coming soon)
-- 3d printed belts for wheels (coming soon)
+- Two wheel drive
+- Capable of lifting other robots into the air
 - Gear train for the weapon
 - Only 6 screws to access the internal electronics
 
@@ -91,3 +93,5 @@ See the [assembly instructions](BUILD.md) to assemble your own version of Ace of
 See the [electronics guide](ELECTRONICS.md) to learn what each electronics component does.
 
 See the [print settings guide](PRINT.md) for print settings.
+
+<img src="Images/poster.png" alt="Poster with pictures of Ace of Sharks" style="width: 50%; height: auto;">
