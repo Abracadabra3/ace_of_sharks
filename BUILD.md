@@ -8,6 +8,8 @@ Not where you want to be?
 
 [Electronics guide](ELECTRONICS.md)
 
+[Print instructions](PRINT.md)
+
 ## Power switch
 
 1. Unscrew the nut from the power switch. Push the charge jack port through the hole in the bottom of the chassis with the wires pointed towards the inside of the chassis. Make sure the charge jack lines up with the rectangle on the chassis.
